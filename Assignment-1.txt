@@ -1,0 +1,10 @@
+> What data types do each of these values represent?
+A: 
+  1. "A Clockwork Orange" - String
+  2. 42 - integar
+  3. 09/02/1945 - integar
+  4. 98.7 - float
+  5. $15.99 - integar
+
+> Explain when a database would be used. Explain when a text file would be used.
+A: A database would be used 
